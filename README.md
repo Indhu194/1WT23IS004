@@ -7,5 +7,8 @@ Subject name: Project Management with GIT
 Subject code: BCS358C
 Academic Year: 2024-25
 Mobile no: 9110260009
+<<<<<<< HEAD
 My Date of Joining to GITW: 3rd oct-2023
+=======
+>>>>>>> a2d0554 (Removed Email successfully from README.md file)
 
