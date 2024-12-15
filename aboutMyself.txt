@@ -6,4 +6,8 @@ Section: A
 Branch: Information science Engineering
 Year of Admission: 2023
 College Name: GITW
+UG Degree: B.E 
+PUC: soundarya composite pu college
+SSLC: Sri Vishnu International school
+
 
